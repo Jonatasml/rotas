@@ -32,7 +32,11 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+"../rotas/node_modules/jquery/dist/jquery.js",
+"../rotas/node_modules/materialize-css/dist/js/materialize.js"
+
+            ]
           },
           "configurations": {
             "production": {
